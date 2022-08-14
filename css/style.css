@@ -14,10 +14,13 @@
 /* Body Styling */
 
 body {
-    /* font-family: 'Outfit', sans-serif; */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Outfit';
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
 }
